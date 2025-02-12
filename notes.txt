@@ -1,0 +1,20 @@
+
+ordered list:
+1.Rahim
+2.Karim
+3.Abdul
+4.joyonto
+
+unordered list:
+.coding
+.reading
+.singing
+
+type: disc, circle, sqare, none
+
+multi tags:
+ul => unordered list =>li
+ol => ordered list =>li
+
+type: a, 1, i/ii/iii
+
